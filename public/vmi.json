@@ -1,0 +1,128 @@
+{
+  "skibi": [
+    {
+      "id": "1",
+      "nev": "Kovács Anna",
+      "eletkor": 29,
+      "regisztracio_datuma": "2024-03-15",
+      "aktiv": true,
+      "egyenleg": 90200.5,
+      "erdeklodesi_korok": [
+        "fotózás",
+        "utazás",
+        "gasztronómia"
+      ]
+    },
+    {
+      "id": "2",
+      "nev": "Nagy Péter",
+      "eletkor": 34,
+      "regisztracio_datuma": "2023-11-02",
+      "aktiv": false,
+      "egyenleg": 10000,
+      "erdeklodesi_korok": [
+        "programozás",
+        "kerékpározás"
+      ]
+    },
+    {
+      "id": "3",
+      "nev": "Szabó Eszter",
+      "eletkor": 25,
+      "regisztracio_datuma": "2025-01-20",
+      "aktiv": true,
+      "egyenleg": 140900,
+      "erdeklodesi_korok": [
+        "olvasás",
+        "jóga"
+      ]
+    },
+    {
+      "id": "4",
+      "nev": "Tóth Gábor",
+      "eletkor": 41,
+      "regisztracio_datuma": "2022-07-08",
+      "aktiv": true,
+      "egyenleg": 80300.75,
+      "erdeklodesi_korok": [
+        "horgászat",
+        "barkácsolás",
+        "főzés"
+      ]
+    },
+    {
+      "id": "5",
+      "nev": "Horváth Júlia",
+      "eletkor": 31,
+      "regisztracio_datuma": "2024-09-12",
+      "aktiv": true,
+      "egyenleg": 15400,
+      "erdeklodesi_korok": [
+        "festészet",
+        "zene"
+      ]
+    },
+    {
+      "id": "6",
+      "nev": "Varga Dániel",
+      "eletkor": 27,
+      "regisztracio_datuma": "2025-05-03",
+      "aktiv": false,
+      "egyenleg": 3200.25,
+      "erdeklodesi_korok": [
+        "videójátékok",
+        "kosárlabda"
+      ]
+    },
+    {
+      "id": "7",
+      "nev": "Kiss Boglárka",
+      "eletkor": 38,
+      "regisztracio_datuma": "2023-02-19",
+      "aktiv": true,
+      "egyenleg": 210500,
+      "erdeklodesi_korok": [
+        "kertészkedés",
+        "túrázás"
+      ]
+    },
+    {
+      "id": "8",
+      "nev": "Molnár Balázs",
+      "eletkor": 45,
+      "regisztracio_datuma": "2021-12-01",
+      "aktiv": true,
+      "egyenleg": 98450,
+      "erdeklodesi_korok": [
+        "történelem",
+        "sakk",
+        "borászat"
+      ]
+    },
+    {
+      "id": "9",
+      "nev": "Farkas Réka",
+      "eletkor": 22,
+      "regisztracio_datuma": "2026-02-14",
+      "aktiv": true,
+      "egyenleg": 8900.5,
+      "erdeklodesi_korok": [
+        "futás",
+        "nyelvtanulás"
+      ]
+    },
+    {
+      "id": "10",
+      "nev": "Balogh Tamás",
+      "eletkor": 36,
+      "regisztracio_datuma": "2024-06-27",
+      "aktiv": false,
+      "egyenleg": 54100,
+      "erdeklodesi_korok": [
+        "autók",
+        "filmek"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
